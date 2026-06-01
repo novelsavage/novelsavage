@@ -21,6 +21,6 @@
 
 #### Articles
 
-[大学ゼミインタビュー記事](https://www.reitaku-u.ac.jp/journal/1778498/)
+- [大学ゼミインタビュー記事](https://www.reitaku-u.ac.jp/journal/1778498/)
 
-[大学ミニインタビュー記事](https://www.reitaku-u.ac.jp/faculty/engineering/information-system/#interview)
+- [大学ミニインタビュー記事](https://www.reitaku-u.ac.jp/faculty/engineering/information-system/#interview)
