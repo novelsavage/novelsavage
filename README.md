@@ -1,3 +1,5 @@
+![Neofetch Stats](https://neofetch-profile.vercel.app/api?username=novelsavage)
+
 ### 前田守海 / Moriumi MAEDA
 
 麗澤大学 工学部 情報システム工学専攻 3年
