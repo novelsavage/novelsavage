@@ -28,4 +28,4 @@
 
 - [大学ミニインタビュー記事](https://www.reitaku-u.ac.jp/faculty/engineering/information-system/#interview)
 
-- [大学イベントの登壇記事(https://www.reitaku-u.ac.jp/news/research/1778645/#:~:text=%E5%90%84%E5%AD%A6%E9%83%A8%E3%81%AE%E5%AD%A6%E7%94%9F%E3%81%A8%E8%80%83%E3%81%88%E3%81%9F%E3%80%81%E6%9C%AA%E6%9D%A5%E3%81%AB%E6%AE%8B%E3%81%97%E3%81%9F%E3%81%84%E3%82%82%E3%81%AE/%E9%BA%97%E6%BE%A4%E5%A4%A7%E5%AD%A6%E5%B7%A5%E5%AD%A6%E9%83%A83%E5%B9%B4%E3%80%80%E5%89%8D%E7%94%B0%E5%AE%88%E6%B5%B7%E3%81%95%E3%82%93)]
+- [大学イベントの登壇記事(https://www.reitaku-u.ac.jp/news/research/1778645/#:~:text=%E5%90%84%E5%AD%A6%E9%83%A8%E3%81%AE%E5%AD%A6%E7%94%9F%E3%81%A8%E8%80%83%E3%81%88%E3%81%9F%E3%80%81%E6%9C%AA%E6%9D%A5%E3%81%AB%E6%AE%8B%E3%81%97%E3%81%9F%E3%81%84%E3%82%82%E3%81%AE/%E9%BA%97%E6%BE%A4%E5%A4%A7%E5%AD%A6%E5%B7%A5%E5%AD%A6%E9%83%A83%E5%B9%B4%E3%80%80%E5%89%8D%E7%94%B0%E5%AE%88%E6%B5%B7%E3%81%95%E3%82%93)
