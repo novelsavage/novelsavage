@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="./signature.svg" width="300" height="50" alt="手書きサイン" />
+  <img src="./signature3.svg" width="240" height="60" alt="手書きサイン" />
 </p>
 
 ## 前田守海 / Moriumi MAEDA
