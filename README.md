@@ -1,10 +1,10 @@
+<p align="right">
+  <img src="./signature.svg" width="300" alt="手書きサイン" />
+</p>
+
 ### 前田守海 / Moriumi MAEDA
 
 麗澤大学 工学部 情報システム工学専攻 3年
-
-<p align="center">
-  <img src="./signature.svg" width="520" alt="手書きサイン" />
-</p>
 
 #### Area of Interest
 
