@@ -2,6 +2,10 @@
 
 麗澤大学 工学部 情報システム工学専攻 3年
 
+<p align="center">
+  <img src="./signature.svg" width="520" alt="手書きサイン" />
+</p>
+
 #### Area of Interest
 
 画像分析・コンピュータビジョン / GIS / AIエージェント
